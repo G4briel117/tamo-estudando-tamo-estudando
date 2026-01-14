@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Anotações Arq curso Udemy"
             }
           }
         ]
@@ -214,10 +218,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "JavaScript/Criando o primeiro codigo.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
+    "JavaScript/Criando o primeiro codigo.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
     "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
     "Java/Tópicos/1. Fundamentos/N7. Conversão de tipo Java.md",
     "Java/Tópicos/1. Fundamentos/N3. Manipulando Strings.md",
