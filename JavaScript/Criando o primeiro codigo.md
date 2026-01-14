@@ -19,7 +19,7 @@ body{background-color: rgb(0, 255, 255);}
 a mensagem em 'mensagem'.
 
  window.confirm('O javaScript é suave ?') - criará uma mensagem de confirmação na tela com a
-mensagem em 'mensagem'.
+mensagem em 'mensagem'.FFFFDFGDFGDFGDF
 
 	window.prompt('Qual o seu nome ?')  - Permite que o usuario escreva seu nome, porém para
 ele ser mostrado nas tela é necessario uma variavel para guardar o valor.
