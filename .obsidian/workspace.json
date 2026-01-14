@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.11.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "828cf8a4b980ad37",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4bc3f38310f2689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69726cbc43cdf07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "814e2628c7af869e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2c962b54ddc6a091",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "387afa8ef668d6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8708962ab5120ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e6d598c0767f423",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Schemas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Schemas"
+            }
+          },
+          {
+            "id": "c411d1b1ce928322",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Schemas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Schemas"
+            }
+          },
+          {
+            "id": "b385a80f78be75fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a1f5c56a46cb176",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Schemas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Schemas"
+            }
+          },
+          {
+            "id": "182c0b3b9f5d8821",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1cf73a77faf3e5e5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "2f8532c01b2d903c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
+    }
+  },
+  "active": "d69726cbc43cdf07",
+  "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
+    "Java/Tópicos/1. Fundamentos/N7. Conversão de tipo Java.md",
+    "Java/Tópicos/1. Fundamentos/N3. Manipulando Strings.md",
+    "Java/Tópicos/1. Fundamentos/N2. Comparação de strings.md",
+    "Java/Tópicos/1. Fundamentos/12. Igualdade de Strings.md",
+    "Java/Tópicos/1. Fundamentos/11.1 Operadores lógicos.md",
+    "Java/Tópicos/1. Fundamentos/11. Operadores.md",
+    "Java/Tópicos/1. Fundamentos/4. Inferência de Tipos.md",
+    "Java/Tópicos/1. Fundamentos/3. Variáveis e constantes.md",
+    "Java/Tópicos/1. Fundamentos/2. Comentários.md",
+    "Casting.md",
+    "Java/Tópicos/1. Fundamentos/10. Conversão.md",
+    "Java/Notes Java.md",
+    "Java/Subpaginas/Exemplo de Algumas Funções de String/charAt(int index).md",
+    "Itens para o Cristiano.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20251215111937.png",
+    "Ibagens/api estudos ibagens/Pasted image 20251201142743.png",
+    "Sem título/desktop.ini",
+    "Ibagens/api estudos ibagens",
+    "Ibagens/javascript ibagens/Api estudos ibagens",
+    "Ibagens/arq udemy ibagens/Pasted image 20251215105328.png",
+    "Ibagens/arq udemy ibagens/Pasted image 20251215105309.png",
+    "Ibagens/arq udemy ibagens",
+    "Reuniões Anotações/EDA - Messenge Drivve/Alinhamento.md",
+    "Reuniões Anotações/EDA - Messenge Drivve",
+    "Reuniões Anotações/EDA - Messenge Drivve/Governança EDA.md",
+    "Arquitetura de Software & Design de Sistemas Modernos",
+    "Reuniões Anotações/Reunião DevOps - Modelos de Pipeline.md",
+    "Open API 3.0/Observações Open API.md",
+    "APIs Estudos/Components.md",
+    "APIs Estudos/Content.md",
+    "APIs Estudos/Parametros Query.md",
+    "APIs Estudos/Schemas.md",
+    "Reuniões Anotações",
+    "APIs Estudos",
+    "Estudo Cientifico",
+    "Java/Nelio Alves",
+    "Sem título.canvas"
+  ]
+}
