@@ -178,14 +178,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "4b22758ce5132839",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,7 +214,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "d69726cbc43cdf07",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
