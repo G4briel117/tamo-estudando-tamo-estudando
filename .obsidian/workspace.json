@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetivos/2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025"
+              "title": "Nova aba"
             }
           }
         ]
@@ -218,6 +214,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Objetivos/2025.md",
     "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
@@ -253,7 +250,6 @@
     "APIs Estudos/Components.md",
     "APIs Estudos/Content.md",
     "APIs Estudos/Parametros Query.md",
-    "APIs Estudos/Schemas.md",
     "Reuniões Anotações",
     "APIs Estudos",
     "Estudo Cientifico",
