@@ -15,4 +15,6 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
 *Trace Ability* - Basicamente o rastreamento, a capacidade de saber exatamente de onde algo veio, por onde passou e onde esta agora dentro de um sistema ^726c22
 
  *Deploy*  - colocar ou atualizar a aplicação em um ambiente
- *Deploy em prod* → quando ela vai para **prod**   ^536280
+ *Deploy em prod* → quando ela vai para **prod**  
+
+OKR - Objective and Keys Results -> 

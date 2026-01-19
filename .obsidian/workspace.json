@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Anotações Arq curso Udemy"
             }
           }
         ]
@@ -214,6 +218,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-10-15 09.56.09.excalidraw.md",
+    "Casting.md",
     "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "JavaScript/Criando o primeiro codigo.md",
@@ -228,7 +234,6 @@
     "Java/Tópicos/1. Fundamentos/4. Inferência de Tipos.md",
     "Java/Tópicos/1. Fundamentos/3. Variáveis e constantes.md",
     "Java/Tópicos/1. Fundamentos/2. Comentários.md",
-    "Casting.md",
     "Java/Tópicos/1. Fundamentos/10. Conversão.md",
     "Java/Notes Java.md",
     "Java/Subpaginas/Exemplo de Algumas Funções de String/charAt(int index).md",
@@ -249,7 +254,6 @@
     "Open API 3.0/Observações Open API.md",
     "APIs Estudos/Components.md",
     "APIs Estudos/Content.md",
-    "APIs Estudos/Parametros Query.md",
     "Reuniões Anotações",
     "APIs Estudos",
     "Estudo Cientifico",
