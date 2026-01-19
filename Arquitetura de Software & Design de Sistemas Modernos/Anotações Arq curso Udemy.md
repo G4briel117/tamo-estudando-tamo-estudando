@@ -17,4 +17,4 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
  *Deploy*  - colocar ou atualizar a aplicação em um ambiente
  *Deploy em prod* → quando ela vai para **prod**  
 
-OKR - Objective and Keys Results -> 
+*OKR ( Objective and Keys Results)*- São definidos resultados chaves que querem seguir em cima daquele objetico
