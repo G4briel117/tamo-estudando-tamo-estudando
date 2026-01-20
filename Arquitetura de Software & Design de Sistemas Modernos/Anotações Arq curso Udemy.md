@@ -17,4 +17,14 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
  *Deploy*  - colocar ou atualizar a aplicação em um ambiente
  *Deploy em prod* → quando ela vai para **prod**  
 
-*OKR ( Objective and Keys Results)*- São definidos resultados chaves que querem seguir em cima daquele objetico
+*OKR ( Objective and Keys Results)*- São definidos resultados chaves que são medido em cima de um objetvo
+ Exemplo
+- Imagina que é passado um Objetivo de melhorar a relação e comunicação com o cliente.
+  
+  As areas vão se perguntar: O que eu posso fazer para melhorar isso ? 
+  
+  -É passado isso para TI no caso. O T.I pode ter a iniciativa de: "Podemos construir um chatbot para melhorar a relação e o atendimento do cliente e facilitar a vida do atendente na hora de resolver os problemas com o cliente e no final é medido o impacto desse resultado para saber se o objetivo foi alcançado"
+  
+  O time tecnico então sera encarregado disso e fará essa tarefa
+  
+  Os resultados vão ser medidos e depois de concluidos o objetivo sera atingido
