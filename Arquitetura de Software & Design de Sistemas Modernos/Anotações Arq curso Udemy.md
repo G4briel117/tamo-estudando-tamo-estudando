@@ -18,7 +18,7 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
  *Deploy em prod* → quando ela vai para **prod**  
 
 *OKR ( Objective and Keys Results)*- São definidos resultados chaves que são medido em cima de um objetvo
- Exemplo
+ Exemplo ^ee194a
 - Imagina que é passado um Objetivo de melhorar a relação e comunicação com o cliente.
   
   As areas vão se perguntar: O que eu posso fazer para melhorar isso ? 
@@ -28,3 +28,17 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
   O time tecnico então sera encarregado disso e fará essa tarefa
   
   Os resultados vão ser medidos e depois de concluidos o objetivo sera atingido
+
+##### Failover
+###### Explicação prática
+
+- Servidor A está em produção (principal).
+    
+- Servidor A cai.
+    
+- Servidor B assume automaticamente.
+    
+- O usuário final quase não percebe a falha.
+
+
+TPS (Transac)
