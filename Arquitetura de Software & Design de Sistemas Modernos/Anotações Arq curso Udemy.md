@@ -30,6 +30,9 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
   Os resultados vão ser medidos e depois de concluidos o objetivo sera atingido
 
 ##### Failover
+
+^06fcb5
+
 ###### Explicação prática
 
 - Servidor A está em produção (principal).
@@ -41,4 +44,4 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
 - O usuário final quase não percebe a falha.
 
 
-TPS (Transac)
+TPS (Transaction Per Second) -> Transações por segundo ^b06802
