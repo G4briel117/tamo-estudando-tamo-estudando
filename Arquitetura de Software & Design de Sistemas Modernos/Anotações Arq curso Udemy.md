@@ -30,9 +30,7 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
   Os resultados vão ser medidos e depois de concluidos o objetivo sera atingido
 
 ##### Failover
-
 ^06fcb5
-
 ###### Explicação prática
 
 - Servidor A está em produção (principal).
@@ -45,3 +43,15 @@ O próprio sistema cria mais servidores de dia e reduz à noite. ^80205f
 
 
 TPS (Transaction Per Second) -> Transações por segundo ^b06802
+
+----
+###### System Design e System Architecture
+![[Pasted image 20260120211450.png]]
+
+###### System Design - Tem uma visão mais de modulo, não de código de fato, mas ele mostra mais detalhes em especifico
+Por Exemplo
+- Tem componente A que vai fazer a chamada para uma API e esse API vai bater em um gateway que vai fazer a validação e devolver a chamada para o componente A em formato de arquivo XML 
+
+###### System Architecture - Ele ve de uma maneira mais ampla, mais generalizada o os componentes
+Por Exemplo
+- Componente B faz uma chamada em um API esse API vai devolver a chamada autenticada
