@@ -1,5 +1,7 @@
 
-Do - Fazer
+Do - Fazer - apenas performar, não está criando nada
+
+Make - Fazer - Coloca a mão na massa para fazer, criando nada
 #### Presente Simples- 
 
 
@@ -13,5 +15,13 @@ He does not (Doesn't) eat play
 Does it fly ?
 
 
+Para mudar pra uma pergunta basta eliminar o começo e falar em Inglês 
+
+#### Vem antes da ação
+
+
+
 
 ![[Pasted image 20260122071500.png]]
+
+![[Pasted image 20260122072923.png]]

@@ -46,9 +46,37 @@
               "icon": "lucide-file",
               "title": "Anotação English"
             }
+          },
+          {
+            "id": "a2d0528fa2bda45a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingreix/Anotação English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotação English"
+            }
+          },
+          {
+            "id": "2932519fbde6a0e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingreix/Anotação English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotação English"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,12 +271,15 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "54829838c12ed661",
+  "active": "2932519fbde6a0e9",
   "lastOpenFiles": [
     "Ingreix/DO e Does.md",
+    "Ingreix/Lesson 08.md",
+    "Ingreix/Anotação English.md",
+    "Ingreix/To.md",
+    "Ibagens/ibagens infreix/Pasted image 20260122072923.png",
     "Ibagens/ibagens infreix",
     "Ibagens/ibagens infreix/Pasted image 20260122071500.png",
-    "Ingreix/Anotação English.md",
     "Ingreix",
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Java/Tópicos/1.1 Conceitos de programação/1. Algoritmo, Automação, Programação de Computador.md",
@@ -278,13 +309,11 @@
     "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "Java/Tópicos/Java Tópics.md",
     "Itens para o Cristiano.md",
-    "Reuniões Anotações/Reunião DevOps - Modelos de Pipeline.md",
     "Ibagens/arq udemy ibagens/Pasted image 20251215111937.png",
     "Ibagens/api estudos ibagens/Pasted image 20251201142743.png",
     "Sem título/desktop.ini",
     "Ibagens/api estudos ibagens",
     "Ibagens/javascript ibagens/Api estudos ibagens",
-    "Ibagens/arq udemy ibagens/Pasted image 20251215105328.png",
     "Ibagens/arq udemy ibagens",
     "Reuniões Anotações/EDA - Messenge Drivve",
     "Arquitetura de Software & Design de Sistemas Modernos",
