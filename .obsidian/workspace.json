@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.5"
               },
-              "icon": "lucide-file",
-              "title": "8. Tipo de Arquitetura e Evolução"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ]
@@ -218,9 +216,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Java/Tópicos/1.1 Conceitos de programação/1. Algoritmo, Automação, Programação de Computador.md",
     "Casting.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260120213031.png",
     "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
