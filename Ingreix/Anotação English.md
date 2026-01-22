@@ -15,8 +15,18 @@ A Frequência vem antes do que voce esta falando muito ou pouco
 EX I speak a little bit of english 
 
 
-pode ser -
-may - 100% certeza - it can rain
-might - 70% de certeza =  
-could -  passado do caan - it could rain  
-can - 30% de certeza - cam 1 have the menu ?
+### pode ser -
+
+may - 70% certeza - it can rain
+might - 50% de certeza =  it might rain
+could -  passado do can - it could rain  
+can - 100% de certeza - can - have the menu ?
+
+
+### Dias da semana Finais de semana
+
+Sempre On
+
+Formalidade: ![[Pasted image 20260122075458.png]]![[Pasted image 20260122075520.png]]
+
+
