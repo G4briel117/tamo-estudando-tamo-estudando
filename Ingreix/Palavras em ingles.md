@@ -7,6 +7,9 @@ i went to work- Eu vou ao trabalho
 
 The - Dar
 
-live - morar
+live - morar/ao vivo
 leave - sair
 improve - melhorar
+neighbor - vizinho
+
+![[Pasted image 20260123075721.png]]
