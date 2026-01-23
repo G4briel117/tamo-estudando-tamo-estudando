@@ -7,3 +7,6 @@ i went to work- Eu vou ao trabalho
 
 The - Dar
 
+live - morar
+leave - sair
+improve - melhorar
