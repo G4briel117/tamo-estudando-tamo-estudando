@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -153,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -163,8 +167,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -173,8 +177,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -196,7 +200,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -204,6 +207,7 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -212,48 +216,54 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d69726cbc43cdf07",
   "lastOpenFiles": [
-    "Objetivos/2025.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
+    "conflict-files-obsidian-git.md",
+    "Sem título",
+    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
+    "Ingreix/Lesson 08.md",
+    "Ingreix/Untitled.md",
+    "Ingreix/Anotação English.md",
+    "Ingreix/DO e Does.md",
+    "Ingreix/To.md",
+    "Ibagens/ibagens infreix/Pasted image 20260122075520.png",
+    "Ibagens/ibagens infreix/Pasted image 20260122075458.png",
+    "Ibagens/ibagens infreix/Pasted image 20260122072923.png",
+    "Ibagens/ibagens infreix",
+    "Ibagens/ibagens infreix/Pasted image 20260122071500.png",
+    "Ingreix",
+    "Java/Tópicos/1.1 Conceitos de programação/1. Algoritmo, Automação, Programação de Computador.md",
+    "Casting.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260120213031.png",
     "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
-    "Java/Tópicos/1. Fundamentos/N7. Conversão de tipo Java.md",
-    "Java/Tópicos/1. Fundamentos/N3. Manipulando Strings.md",
-    "Java/Tópicos/1. Fundamentos/N2. Comparação de strings.md",
-    "Java/Tópicos/1. Fundamentos/12. Igualdade de Strings.md",
-    "Java/Tópicos/1. Fundamentos/11.1 Operadores lógicos.md",
-    "Java/Tópicos/1. Fundamentos/11. Operadores.md",
-    "Java/Tópicos/1. Fundamentos/4. Inferência de Tipos.md",
-    "Java/Tópicos/1. Fundamentos/3. Variáveis e constantes.md",
-    "Java/Tópicos/1. Fundamentos/2. Comentários.md",
-    "Casting.md",
-    "Java/Tópicos/1. Fundamentos/10. Conversão.md",
-    "Java/Notes Java.md",
-    "Java/Subpaginas/Exemplo de Algumas Funções de String/charAt(int index).md",
-    "Itens para o Cristiano.md",
-    "Ibagens/arq udemy ibagens/Pasted image 20251215111937.png",
-    "Ibagens/api estudos ibagens/Pasted image 20251201142743.png",
+    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/3. Ciclo de mudança de Arquitetura.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/4. Alta disponibilidade e Tolerância a Falhas.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/5. Escala Horizontal e Escala Vertical.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/6. SLI, SLO E SLA.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/7. RTO e RPO.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/8. System Design vs System Architecture.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260120211450.png",
+    "Estudo Cientifico/API Behavior Drift.md",
+    "Objetivos/Mapa mental (To do).md",
+    "Objetivos/2025.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260119221926.png",
+    "Ibagens/arq udemy ibagens/Pasted image 20260119220735.png",
+    "Ibagens/arq udemy ibagens/Pasted image 20260119215846.png",
+    "HTML/3. Formulario(bem resumido).md",
+    "HTML/2. Criando link.md",
+    "HTML/1. Colocando Imagem.md",
+    "HTML/0. HTML Tópics.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260119214047.png",
+    "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "Sem título/desktop.ini",
     "Ibagens/api estudos ibagens",
     "Ibagens/javascript ibagens/Api estudos ibagens",
-    "Ibagens/arq udemy ibagens/Pasted image 20251215105328.png",
-    "Ibagens/arq udemy ibagens/Pasted image 20251215105309.png",
     "Ibagens/arq udemy ibagens",
-    "Reuniões Anotações/EDA - Messenge Drivve/Alinhamento.md",
     "Reuniões Anotações/EDA - Messenge Drivve",
-    "Reuniões Anotações/EDA - Messenge Drivve/Governança EDA.md",
     "Arquitetura de Software & Design de Sistemas Modernos",
-    "Reuniões Anotações/Reunião DevOps - Modelos de Pipeline.md",
-    "Open API 3.0/Observações Open API.md",
-    "APIs Estudos/Components.md",
-    "APIs Estudos/Content.md",
-    "APIs Estudos/Parametros Query.md",
     "Reuniões Anotações",
-    "APIs Estudos",
-    "Estudo Cientifico",
-    "Java/Nelio Alves",
     "Sem título.canvas"
   ]
 }
