@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db9b34d08a8a0daa",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "9872fa5c2a797fc0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,7 +212,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4b22758ce5132839",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Sem título",
