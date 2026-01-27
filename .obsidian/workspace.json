@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Ingreix/Quando utilizar/Does e Do.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
+                "bFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Does e Do"
+              "icon": "diff",
+              "title": "Diff: Ingreix_Quando_utilizar_Does_e_Do_md.ajson  (Working Tree)"
             }
           }
         ]
@@ -219,6 +219,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Ingreix/Quando utilizar/Does e Do.md",
     "Ingreix/Palavras em ingles.md",
     "Ingreix/Anotação English.md",
@@ -230,7 +231,6 @@
     "Untitled.md",
     "Ingreix/Quando utilizar",
     "Ingreix/DO e Does.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Ibagens/ibagens infreix/Pasted image 20260123075721.png",
     "Ingreix/A and an.md",
     "Ingreix/live e live.md",
