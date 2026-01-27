@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8419dedf6a1d70ed",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c94e020922b782a1",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,11 +212,11 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "4b22758ce5132839",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Sem título",
     "conflict-files-obsidian-git.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Ingreix/Lesson 08.md",
     "Ingreix/Untitled.md",
     "Ingreix/Anotação English.md",
