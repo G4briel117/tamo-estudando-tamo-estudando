@@ -55,3 +55,11 @@ Por Exemplo
 ###### System Architecture - Ele ve de uma maneira mais ampla, mais generalizada o os componentes
 Por Exemplo
 - Componente B faz uma chamada em um API esse API vai devolver a chamada autenticada
+
+*Event Bus* - Um padrão de design e uma arquitetura que permite.
+- Um **evento** é algo que aconteceu  
+    👉 “pedido criado”, “pagamento feito”, “botão clicado”
+    
+- O **Event Bus** é o lugar onde esses eventos são anunciados
+     ^9c0727
+- Outros pedaços do sistema **escutam** esses eventos e agem

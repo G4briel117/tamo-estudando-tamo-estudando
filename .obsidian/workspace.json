@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8. Tipo de Arquitetura e Evolução"
             }
           }
         ]
@@ -215,7 +219,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/6. SLI, SLO E SLA.md",
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Ingreix/Quando utilizar/Does e Do.md",
     "Ingreix/Palavras em ingles.md",
     "Ingreix/Anotação English.md",
@@ -242,13 +248,11 @@
     "Java/Tópicos/1.1 Conceitos de programação/1. Algoritmo, Automação, Programação de Computador.md",
     "Casting.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260120213031.png",
-    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
     "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Ciclo de mudança de Arquitetura.md",
     "Arquitetura de Software & Design de Sistemas Modernos/4. Alta disponibilidade e Tolerância a Falhas.md",
     "Arquitetura de Software & Design de Sistemas Modernos/5. Escala Horizontal e Escala Vertical.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/6. SLI, SLO E SLA.md",
     "Arquitetura de Software & Design de Sistemas Modernos/7. RTO e RPO.md",
     "Arquitetura de Software & Design de Sistemas Modernos/8. System Design vs System Architecture.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260120211450.png",
