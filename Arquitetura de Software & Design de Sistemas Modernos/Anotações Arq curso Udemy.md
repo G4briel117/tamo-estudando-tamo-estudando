@@ -63,3 +63,88 @@ Por Exemplo
 - O **Event Bus** é o lugar onde esses eventos são anunciados
      ^9c0727
 - Outros pedaços do sistema **escutam** esses eventos e agem
+
+### Pull e Push
+
+👉 **PUSH: o sistema te avisa.**  
+👉 **PULL: você pergunta ao sistema.** ^a2fc15
+
+
+## O que é Kubernetes?
+
+^ef95be
+
+**Kubernetes** (ou **K8s**) é um **robô super organizado** 🤖  
+que **cuida dos seus aplicativos** para você.
+
+Ele:
+
+- coloca cada app no lugar certo
+    
+- fica olhando se algum quebrou
+    
+- arruma sozinho
+    
+- cria mais cópias quando tem muita gente usando
+    
+
+---
+
+## 📦 Conceitos importantes (bem simples)
+
+### 🟦 Container
+
+É como uma **lancheira** 🍱  
+Dentro dela tem o aplicativo + tudo que ele precisa pra funcionar.
+
+Ex: Docker
+
+---
+
+### 🟨 Pod
+
+^8f1b87
+
+É um **grupo de lancheiras** andando juntas.  
+Normalmente 1 app por Pod.
+
+---
+
+### 🖥️ Node
+
+É um **computador** onde os Pods rodam.
+
+---
+
+### 🌍 Cluster
+
+É o **conjunto de computadores** (Nodes).
+
+---
+
+### 👮 Kubernetes (o chefe)
+
+Ele decide:
+
+- onde cada Pod vai rodar
+    
+- se um app caiu → cria outro
+    
+- se tem pouca gente usando → diminui
+    
+- se tem muita gente usando → aumenta
+    
+
+---
+
+## 🚑 Exemplo simples
+
+1. Seu app está rodando
+    
+2. Um computador desliga ❌
+    
+3. Kubernetes percebe
+    
+4. Ele cria o app em outro computador ✅
+    
+5. Tudo continua funcionando
