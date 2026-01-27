@@ -213,7 +213,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
+<<<<<<< HEAD
+      "smart-connections:Smart Connections: Open random connection": false,
+=======
       "smart-connections:Smart Connections: Open random connection": true,
+>>>>>>> 7b511dd2b5304a9005bcc3661715a55ef3fb90a7
       "univer:Univer": false
     }
   },
