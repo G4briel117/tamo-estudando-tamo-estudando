@@ -14,7 +14,6 @@ No how
 A Frequência vem antes do que voce esta falando muito ou pouco
 EX I speak a little bit of english 
 
-
 ### pode ser -
 
 may - 70% certeza - it can rain
@@ -28,5 +27,14 @@ can - 100% de certeza - can - have the menu ?
 Sempre On
 
 Formalidade: ![[Pasted image 20260122075458.png]]![[Pasted image 20260122075520.png]]
+
+
+Do you **know How** - Habilidade
+Do you **know - Voce** conhece ?
+
+---
+
+A 
+
 
 

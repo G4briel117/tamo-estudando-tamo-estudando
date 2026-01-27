@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
+                "bFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Ingreix_Quando_utilizar_Does_e_Do_md.ajson  (Working Tree)"
             }
           }
         ]
@@ -192,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,19 +213,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "smart-connections:Smart Connections: Open random connection": false,
+      "univer:Univer": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-    "Sem título",
-    "conflict-files-obsidian-git.md",
-    "Ingreix/Lesson 08.md",
-    "Ingreix/Untitled.md",
+    "Ingreix/Quando utilizar/Does e Do.md",
+    "Ingreix/Palavras em ingles.md",
     "Ingreix/Anotação English.md",
-    "Ingreix/DO e Does.md",
+    "Ingreix/Quando utilizar/Untitled.xlsx",
+    "Ingreix/to go x to the x go to.md",
+    "Ingreix/So, very, pretty, too.md",
+    "Ingreix/Quantidade.md",
     "Ingreix/To.md",
+    "Untitled.md",
+    "Ingreix/Quando utilizar",
+    "Ingreix/DO e Does.md",
+    "Ibagens/ibagens infreix/Pasted image 20260123075721.png",
+    "Ingreix/A and an.md",
+    "Ingreix/live e live.md",
+    "Ingreix/Untitled 1.md",
+    "Ibagens/ibagens infreix/Pasted image 20260123073444.png",
+    "Ingreix/On - datas.md",
     "Ibagens/ibagens infreix/Pasted image 20260122075520.png",
     "Ibagens/ibagens infreix/Pasted image 20260122075458.png",
     "Ibagens/ibagens infreix/Pasted image 20260122072923.png",
@@ -241,24 +256,14 @@
     "Arquitetura de Software & Design de Sistemas Modernos/7. RTO e RPO.md",
     "Arquitetura de Software & Design de Sistemas Modernos/8. System Design vs System Architecture.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260120211450.png",
-    "Estudo Cientifico/API Behavior Drift.md",
-    "Objetivos/Mapa mental (To do).md",
-    "Objetivos/2025.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260119221926.png",
     "Ibagens/arq udemy ibagens/Pasted image 20260119220735.png",
-    "Ibagens/arq udemy ibagens/Pasted image 20260119215846.png",
-    "HTML/3. Formulario(bem resumido).md",
-    "HTML/2. Criando link.md",
-    "HTML/1. Colocando Imagem.md",
-    "HTML/0. HTML Tópics.md",
-    "Ibagens/arq udemy ibagens/Pasted image 20260119214047.png",
     "Sem título/desktop.ini",
     "Ibagens/api estudos ibagens",
     "Ibagens/javascript ibagens/Api estudos ibagens",
     "Ibagens/arq udemy ibagens",
     "Reuniões Anotações/EDA - Messenge Drivve",
     "Arquitetura de Software & Design de Sistemas Modernos",
-    "Reuniões Anotações",
     "Sem título.canvas"
   ]
 }
