@@ -1,6 +1,6 @@
 
 How Many - Usamos em perguntas contaveis
-a few: contaveis - 
+a few: contaveis -
 How much - Usamos em perguntas incontáveis - Não irá contar fio a fio, a agua nao vai contar gota por gota
 a little: incontavel
 a lot of 
