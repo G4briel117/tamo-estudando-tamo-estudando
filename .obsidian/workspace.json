@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "8419dedf6a1d70ed",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c94e020922b782a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -212,10 +212,10 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4b22758ce5132839",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Sem título",
+    "conflict-files-obsidian-git.md",
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
     "Ingreix/Lesson 08.md",
     "Ingreix/Untitled.md",
@@ -252,7 +252,6 @@
     "HTML/1. Colocando Imagem.md",
     "HTML/0. HTML Tópics.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260119214047.png",
-    "Arquitetura de Software & Design de Sistemas Modernos/3. Planejamento alinhado aos negocios.md",
     "Sem título/desktop.ini",
     "Ibagens/api estudos ibagens",
     "Ibagens/javascript ibagens/Api estudos ibagens",
