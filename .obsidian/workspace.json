@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
-                "bFile": ".smart-env/multi/Ingreix_Quando_utilizar_Does_e_Do_md.ajson",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Ingreix_Quando_utilizar_Does_e_Do_md.ajson  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
