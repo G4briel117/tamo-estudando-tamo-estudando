@@ -72,3 +72,5 @@ Aqui, o inglês **não inverte** a ordem, porque isso não é uma pergunta.
 🧠 **Resposta = sujeito na frente**
 
 Nunca misture os dois.
+
+Jamais misturar
