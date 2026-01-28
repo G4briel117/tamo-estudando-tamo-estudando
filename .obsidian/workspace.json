@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura de Software & Design de Sistemas Modernos/9. Three-Tier Architecture.md",
+                "file": "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Three-Tier Architecture"
+              "title": "8. Tipo de Arquitetura e Evolução"
             }
           }
         ],
@@ -210,11 +210,13 @@
       "univer:Univer": false
     }
   },
-  "active": "56320cf209094c74",
+  "active": "f606b5a88f0cecb4",
   "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/9. Three-Tier Architecture.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260128165018.png",
+    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260128153343.png",
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/9. Three-Tier Architecture.md",
     "Arquitetura de Software & Design de Sistemas Modernos/3. Ciclo de mudança de Arquitetura.md",
     "Ibagens/arq udemy ibagens/Pasted image 20260127201413.png"
   ]
