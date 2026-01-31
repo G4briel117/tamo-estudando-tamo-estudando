@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8. Tipo de Arquitetura e Evolução"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "828cf8a4b980ad37",
+    "id": "7be99bb11e86fb3f",
     "type": "split",
     "children": [
       {
-        "id": "c4bc3f38310f2689",
+        "id": "b114a63fe05e1e99",
         "type": "tabs",
         "children": [
           {
-            "id": "d69726cbc43cdf07",
+            "id": "07c526c886c13ed1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "814e2628c7af869e",
+            "id": "77d36e413c81a2e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,11 +57,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "2c962b54ddc6a091",
+            "id": "317be703504c03de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "387afa8ef668d6b5",
+    "id": "4f4ce1acb662d660",
     "type": "split",
     "children": [
       {
-        "id": "8708962ab5120ca7",
+        "id": "084edd8d067aec94",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6d598c0767f423",
+            "id": "692814cb907622fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Schemas"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c411d1b1ce928322",
+            "id": "4c90692f10506d58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Schemas"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b385a80f78be75fc",
+            "id": "28dc20e4d942fe82",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,66 +131,35 @@
             }
           },
           {
-            "id": "9a1f5c56a46cb176",
+            "id": "ed38a94cdedaac0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schemas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Schemas"
+              "title": "Outline"
             }
           },
           {
-            "id": "182c0b3b9f5d8821",
+            "id": "c55516936f0a1c31",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "1cf73a77faf3e5e5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
-          },
-          {
-            "id": "2f8532c01b2d903c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "4b22758ce5132839",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,62 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-<<<<<<< HEAD
       "smart-connections:Smart Connections: Open random connection": false,
-=======
-      "smart-connections:Smart Connections: Open random connection": true,
->>>>>>> 7b511dd2b5304a9005bcc3661715a55ef3fb90a7
       "univer:Univer": false
     }
   },
-  "active": "d69726cbc43cdf07",
-  "lastOpenFiles": [
-    "Ibagens/arq udemy ibagens/Pasted image 20260127201413.png",
-    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/6. SLI, SLO E SLA.md",
-    "Ingreix/Quando utilizar/Does e Do.md",
-    "Ingreix/Palavras em ingles.md",
-    "Ingreix/Anotação English.md",
-    "Ingreix/Quando utilizar/Untitled.xlsx",
-    "Ingreix/to go x to the x go to.md",
-    "Ingreix/So, very, pretty, too.md",
-    "Ingreix/Quantidade.md",
-    "Ingreix/To.md",
-    "Untitled.md",
-    "Ingreix/Quando utilizar",
-    "Ingreix/DO e Does.md",
-    "Ibagens/ibagens infreix/Pasted image 20260123075721.png",
-    "Ingreix/A and an.md",
-    "Ingreix/live e live.md",
-    "Ingreix/Untitled 1.md",
-    "Ibagens/ibagens infreix/Pasted image 20260123073444.png",
-    "Ingreix/On - datas.md",
-    "Ibagens/ibagens infreix/Pasted image 20260122075520.png",
-    "Ibagens/ibagens infreix/Pasted image 20260122075458.png",
-    "Ibagens/ibagens infreix/Pasted image 20260122072923.png",
-    "Ibagens/ibagens infreix",
-    "Ibagens/ibagens infreix/Pasted image 20260122071500.png",
-    "Ingreix",
-    "Java/Tópicos/1.1 Conceitos de programação/1. Algoritmo, Automação, Programação de Computador.md",
-    "Casting.md",
-    "Ibagens/arq udemy ibagens/Pasted image 20260120213031.png",
-    "Arquitetura de Software & Design de Sistemas Modernos/1. Large Scale e Complex Archs.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/2. Principios de sucessos de uma arquitetura de software.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/3. Ciclo de mudança de Arquitetura.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/4. Alta disponibilidade e Tolerância a Falhas.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/5. Escala Horizontal e Escala Vertical.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/7. RTO e RPO.md",
-    "Arquitetura de Software & Design de Sistemas Modernos/8. System Design vs System Architecture.md",
-    "Ibagens/arq udemy ibagens/Pasted image 20260120211450.png",
-    "Ibagens/arq udemy ibagens/Pasted image 20260119221926.png",
-    "Ibagens/arq udemy ibagens/Pasted image 20260119220735.png",
-    "Sem título/desktop.ini",
-    "Ibagens/api estudos ibagens",
-    "Ibagens/javascript ibagens/Api estudos ibagens",
-    "Ibagens/arq udemy ibagens",
-    "Reuniões Anotações/EDA - Messenge Drivve",
-    "Arquitetura de Software & Design de Sistemas Modernos",
-    "Sem título.canvas"
-  ]
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": []
 }
