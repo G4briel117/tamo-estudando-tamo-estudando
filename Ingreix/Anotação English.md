@@ -34,7 +34,9 @@ Do you **know - Voce** conhece ?
 
 ---
 
-A 
+Want to - tem som de Wanna 
 
 
+____________
 
+![[Pasted image 20260203072322.png]]
