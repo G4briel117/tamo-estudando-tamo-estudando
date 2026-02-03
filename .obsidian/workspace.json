@@ -176,10 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Connections: Open random connection": true,
       "univer:Univer": false
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
+    "Untitled.udoc",
+    "Untitled.xlsx",
+    "2026-01-30.md",
+    "Reuniões Anotações/EDA - Messenge Drivve/Governança EDA.md",
+    "Reuniões Anotações/EDA - Messenge Drivve/Alinhamento.md",
+    "Excalidraw/Drawing 2026-01-30 21.46.12.excalidraw.md"
+  ]
 }
