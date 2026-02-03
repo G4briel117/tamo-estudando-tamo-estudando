@@ -15,3 +15,5 @@ neighbor - vizinho
 ![[Pasted image 20260123075721.png]]
 
 With me - Comigo
+
+

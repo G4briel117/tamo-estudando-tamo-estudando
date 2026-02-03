@@ -40,3 +40,14 @@ Want to - tem som de Wanna
 ____________
 
 ![[Pasted image 20260203072322.png]]
+
+
+
+![[Pasted image 20260203074039.png]]
+um vem no começo e outro no fim.
+
+yet - é negativo na maioria das vezes
+
+_________
+
+Go e Going - igual nosso correndo, andando
