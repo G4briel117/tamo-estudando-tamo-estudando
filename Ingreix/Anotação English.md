@@ -51,3 +51,6 @@ yet - é negativo na maioria das vezes
 _________
 
 Go e Going - igual nosso correndo, andando
+
+________
+Podemos falar: Julce a palavra juice
