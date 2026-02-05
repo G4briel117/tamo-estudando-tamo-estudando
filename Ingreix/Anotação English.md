@@ -58,4 +58,4 @@ Podemos falar: Julce a palavra juice
 
 ______
 
-Ao inves de Like podemos colocar Enjoy pra gostar tambem
+Ao inves de Like podemos colocar Enjoy pra gostar tambem 
