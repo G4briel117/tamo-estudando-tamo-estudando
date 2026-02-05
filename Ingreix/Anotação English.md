@@ -54,3 +54,8 @@ Go e Going - igual nosso correndo, andando
 
 ________
 Podemos falar: Julce a palavra juice
+
+
+______
+
+Ao inves de Like podemos colocar Enjoy pra gostar tambem
