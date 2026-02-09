@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ]
@@ -182,6 +184,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Anotações Espanhol.md",
+    "Espanhol",
     "Ingreix/Anotação English.md",
     "Ingreix/Untitled 1 1.md",
     "Ingreix/Quantidade.md",
