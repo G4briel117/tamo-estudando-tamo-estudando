@@ -16,4 +16,8 @@ neighbor - vizinho
 
 With me - Comigo
 
+______________
+![[Pasted image 20260209070634.png]]
+_____
 
+Yes, i do - Sim eu quero
