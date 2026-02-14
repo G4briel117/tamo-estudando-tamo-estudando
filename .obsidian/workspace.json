@@ -11,30 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
-          },
-          {
-            "id": "4624a525689986b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingreix/Palavras em ingles.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Palavras em ingles"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +180,12 @@
       "univer:Univer": false
     }
   },
-  "active": "4624a525689986b4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Ingreix/Palavras em ingles.md",
     "Pasted image 20260203072322.png",
     "Untitled.udoc",
     "Untitled.xlsx",
-    "Ingreix/Palavras em ingles.md",
     "Pasted image 20260209070634.png",
     "Ingreix/Untitled 1 2.md",
     "Anotações Espanhol.md",
