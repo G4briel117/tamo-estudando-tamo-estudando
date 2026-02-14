@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8. Tipo de Arquitetura e Evolução"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7be99bb11e86fb3f",
+    "id": "4a89642b3c823233",
     "type": "split",
     "children": [
       {
-        "id": "b114a63fe05e1e99",
+        "id": "bcef329778e56598",
         "type": "tabs",
         "children": [
           {
-            "id": "07c526c886c13ed1",
+            "id": "56320cf209094c74",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "77d36e413c81a2e4",
+            "id": "fb8f48faa937adcf",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,35 +61,35 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "317be703504c03de",
+            "id": "38bc58b33ba89fc8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "4f4ce1acb662d660",
+    "id": "d8b42f2dd817e482",
     "type": "split",
     "children": [
       {
-        "id": "084edd8d067aec94",
+        "id": "652b0e4f1944360c",
         "type": "tabs",
         "children": [
           {
-            "id": "692814cb907622fe",
+            "id": "ca1942b8cda04632",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +107,7 @@
             }
           },
           {
-            "id": "4c90692f10506d58",
+            "id": "0281612c1cf99851",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -112,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "28dc20e4d942fe82",
+            "id": "8f95f5ecd04b7954",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +135,7 @@
             }
           },
           {
-            "id": "ed38a94cdedaac0e",
+            "id": "c9483fde1aa0577c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,11 +145,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Sumário"
             }
           },
           {
-            "id": "c55516936f0a1c31",
+            "id": "60e560de69a87962",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -153,13 +157,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f16f4154dd96ac4a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +196,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ingreix/Palavras em ingles.md",
-    "Pasted image 20260203072322.png",
-    "Untitled.udoc",
-    "Untitled.xlsx",
-    "Pasted image 20260209070634.png",
-    "Ingreix/Untitled 1 2.md",
-    "Anotações Espanhol.md",
-    "Espanhol",
-    "Ingreix/Anotação English.md",
-    "Ingreix/Untitled 1 1.md",
-    "Ingreix/Quantidade.md",
-    "Ingreix/On - datas.md",
-    "Ingreix/So, very, pretty, too.md",
-    "Ingreix/live e live.md",
-    "Ingreix/DO e Does.md",
-    "Ingreix/A and an.md",
-    "Ingreix/Quando utilizar/Does e Do.md",
-    "Ingreix/to go x to the x go to.md",
-    "Ingreix/want to.md",
-    "Ingreix/Untitled 1.md",
-    "Pasted image 20260203074039.png",
-    "Pergunta no simples past -.md",
-    "Pasted image 20260203072953.png",
-    "Untitled",
+    "Arquitetura de Software & Design de Sistemas Modernos/9. Three-Tier Architecture.md",
+    "Arquitetura de Software & Design de Sistemas Modernos/10 . Stateless e Stateful.md",
+    "conflict-files-obsidian-git.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260128171917.png",
     "Arquitetura de Software & Design de Sistemas Modernos/8. Tipo de Arquitetura e Evolução.md",
-    "2026-01-30.md",
-    "Reuniões Anotações/EDA - Messenge Drivve/Governança EDA.md",
-    "Reuniões Anotações/EDA - Messenge Drivve/Alinhamento.md",
-    "Excalidraw/Drawing 2026-01-30 21.46.12.excalidraw.md"
+    "Arquitetura de Software & Design de Sistemas Modernos/Anotações Arq curso Udemy.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260128165018.png",
+    "Ibagens/arq udemy ibagens/Pasted image 20260128153343.png",
+    "Arquitetura de Software & Design de Sistemas Modernos/3. Ciclo de mudança de Arquitetura.md",
+    "Ibagens/arq udemy ibagens/Pasted image 20260127201413.png"
   ]
 }

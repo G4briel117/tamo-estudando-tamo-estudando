@@ -148,3 +148,11 @@ Ele decide:
 4. Ele cria o app em outro computador ✅
     
 5. Tudo continua funcionando
+
+
+_____________________
+
+Quando falamos em Exposição podemos estar falando de:
+
+- Backend
+- Frontend
